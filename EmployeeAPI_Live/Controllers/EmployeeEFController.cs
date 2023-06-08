@@ -19,7 +19,6 @@ namespace EmployeeAPI_Live.Controllers
 
         // Öncelikle manuel bir şekilde bir liste yapısı oluşrup CRUD işlemlerini bunun üzerinde gerçekleştirelim.
 
-        
         //Http Request Types - Response Codes -> Apilerde kullanılan
         //CRUD - R
         [HttpGet]
